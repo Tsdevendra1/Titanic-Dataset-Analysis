@@ -109,15 +109,3 @@ coeff_df["Coefficient Estimate"] = pd.Series(logreg.coef_[0])
 # preview
 print(coeff_df)
 
-
-
-
-
-
-
-
-
-
-
-
-
